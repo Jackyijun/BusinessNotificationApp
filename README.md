@@ -1,6 +1,8 @@
-# dermose
+# Business Notification App 
 
-A new Flutter project.
+A Calendar/Schedule/Todo App for Business Owner to See When Appointment is to Provide Services.   
+- Flutter
+- Frontend HomePage
 
 ## Getting Started
 
