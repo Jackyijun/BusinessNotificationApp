@@ -3,6 +3,8 @@
 A Calendar/Schedule/Todo App for Business Owner to See When Appointment is to Provide Services.   
 - Flutter
 - Frontend HomePage
+- with Dermose
+- [Figma](https://www.figma.com/file/TH2oC0t7IvO8PCxRxcH5v3/Technical-Challenge?type=design&node-id=0-1&mode=design&t=C5E1ux3fdKl9zYQG-0)
 
 ## Getting Started
 
